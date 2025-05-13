@@ -9,14 +9,11 @@ Meet James, a mid-level developer laid off from a fast-growing startup. He’s n
 
 This project dives into the tech layoffs wave using real data. I wanted to know which companies are letting people go, what stage they’re in, and if certain roles or industries are being hit harder than others. With Power BI, I cleaned, explored, and visualized the patterns to find answers not just for James, but for anyone trying to make sense of the chaos and plan better for the future.
 
-### **DATA STRUCTURE**
-The dataset was provided in an Excel format from 2020 to 2024. It consists of 1,673 rows and 16 columns
+### **DATA STRUCTURE** The dataset was provided in an Excel format from 2020 to 2024. It consists of 1,673 rows and 16 columns
 
-### **INDUSTRY TYPE OF DATA**
-This dataset falls under the Tech industry, focusing on analyzing tech layoff patterns across different countries
+### **INDUSTRY TYPE OF DATA** This dataset falls under the Tech industry, focusing on analyzing tech layoff patterns across different countries
 
-### **WHO IS THIS ANALYSIS FOR**
-This project is important to stakeholders like HR teams, Tech companies, tech-inclined workers, and industry observers.
+### **WHO IS THIS ANALYSIS FOR** This project is important to stakeholders like HR teams, Tech companies, tech-inclined workers, and industry observers.
 
 ### **OBJECTIVES**
 
@@ -145,4 +142,6 @@ These methods helped ensure the analysis was not only clean and organized but al
 13. Big companies should find smarter ways to save money without just firing employees.
     Small companies should avoid over-hiring in good times so they don’t struggle when things slow down.
 
+In conclusion, Companies should focus on keeping their employees instead of cutting jobs whenever things get tough. Workers should always keep learning new skills to stay valuable. Founders should build businesses that grow steadily rather than depending too much on investors.
+If everyone plays their part, we’ll have fewer layoffs, better job security, and stronger businesses in the long run for everyone in tech. 
 If everyone plays their part, we’ll see fewer layoffs, stronger companies, and better job security for everyone in tech.
